@@ -1,0 +1,20 @@
+/* format image to be displayed correctly */
+.biglogo{
+    display:block;
+    max-width:60%;
+    margin: 20px auto;
+    padding:20px;
+}
+
+/*Same font as SoundBro logo for consistency*/
+.logo{
+    font-family:'League Spartan';
+    letter-spacing: -1px;
+}
+
+/* adding underline on hover makes it easier to see*/
+.nav-item:hover{
+    text-decoration: underline;
+    text-decoration-color: white;
+}
+
